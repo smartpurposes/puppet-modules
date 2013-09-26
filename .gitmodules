@@ -1,0 +1,51 @@
+[submodule "stdlib"]
+	path = stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "concat"]
+	path = concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "awstools"]
+	path = awstools
+	url = https://github.com/icalvete/puppet-awstools.git
+[submodule "common"]
+	path = common
+	url = https://github.com/icalvete/puppet-common.git
+[submodule "s3sync"]
+	path = s3sync
+	url = https://github.com/icalvete/puppet-s3sync.git
+[submodule "puppet"]
+	path = puppet
+	url = https://github.com/icalvete/puppet-puppet.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/icalvete/puppet-rabbitmq.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/icalvete/puppet-mysql.git
+[submodule "htpasswd"]
+	path = htpasswd
+	url = https://github.com/icalvete/puppet-htpasswd.git
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/icalvete/puppet-apache2.git
+[submodule "php5"]
+	path = php5
+	url = https://github.com/icalvete/puppet-php5.git
+[submodule "statsd"]
+	path = statsd
+	url = https://github.com/icalvete/puppet-statsd.git
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/icalvete/puppet-nodejs.git
+[submodule "kibana3"]
+	path = kibana3
+	url = https://github.com/icalvete/puppet-kibana3.git
+[submodule "logstash"]
+	path = logstash
+	url = https://github.com/icalvete/puppet-logstash.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = https://github.com/icalvete/puppet-elasticsearch.git
+[submodule "syslogng"]
+	path = syslogng
+	url = https://github.com/icalvete/puppet-syslogng.git
