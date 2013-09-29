@@ -52,3 +52,6 @@
 [submodule "collectd"]
 	path = collectd
 	url = https://github.com/icalvete/puppet-collectd.git
+[submodule "graphite"]
+	path = graphite
+	url = https://github.com/icalvete/puppet-graphite.git
