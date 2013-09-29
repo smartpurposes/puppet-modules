@@ -49,3 +49,6 @@
 [submodule "syslogng"]
 	path = syslogng
 	url = https://github.com/icalvete/puppet-syslogng.git
+[submodule "collectd"]
+	path = collectd
+	url = https://github.com/icalvete/puppet-collectd.git
