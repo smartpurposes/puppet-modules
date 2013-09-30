@@ -55,3 +55,6 @@
 [submodule "graphite"]
 	path = graphite
 	url = https://github.com/icalvete/puppet-graphite.git
+[submodule "mcollective"]
+	path = mcollective
+	url = https://github.com/icalvete/puppet-mcollective.git
