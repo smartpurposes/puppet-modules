@@ -58,3 +58,6 @@
 [submodule "mcollective"]
 	path = mcollective
 	url = https://github.com/icalvete/puppet-mcollective.git
+[submodule "drbd"]
+	path = drbd
+	url = https://github.com/icalvete/puppet-drbd.git
