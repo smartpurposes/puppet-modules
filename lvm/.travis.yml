@@ -1,0 +1,10 @@
+rvm: 1.8.7
+notifications:
+        email:
+                - icalvete@gmail.com
+env:
+        - PUPPET_VERSION=2.7.21
+        - PUPPET_VERSION=3.3.0
+script: ./script/cibuild
+before_script:
+ - chmod +x ./script/cibuild

@@ -1,0 +1,2 @@
+class lvm::params {}
+
