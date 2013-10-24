@@ -2,7 +2,7 @@
 
 Puppet manifest to create lvm physical devices, volume groups and logical volume.
 
-[![Build Status](https://secure.travis-ci.org/icalvete/puppet-puppet.png)](http://travis-ci.org/icalvete/puppet-lvm)
+[![Build Status](https://secure.travis-ci.org/icalvete/puppet-lvm.png)](http://travis-ci.org/icalvete/puppet-lvm)
 
 ##Actions:
 
