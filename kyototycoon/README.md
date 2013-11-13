@@ -2,7 +2,7 @@
 
 Puppet manifest to install and configure kyototycoon.
 
-[![Build Status](https://secure.travis-ci.org/icalvete/puppet-kyototycoon.png)](http://travis-ci.org/icalvete/puppet-kyototycoon-brbd)
+[![Build Status](https://secure.travis-ci.org/icalvete/puppet-kyototycoon.png)](http://travis-ci.org/icalvete/puppet-kyototycoon)
 
 See [kyototycoon](http://fallabs.com/kyototycoon/) and [Fundamental Specifications of Kyoto Tycoon](http://fallabs.com/kyototycoon/spex.html)
 
