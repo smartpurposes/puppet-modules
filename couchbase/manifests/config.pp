@@ -1,0 +1,3 @@
+class couchbase::config {
+}
+

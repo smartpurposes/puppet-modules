@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+
+set -e [ -z "${PUPPET_VERSION}" ]
+
+echo 
+echo "### Check Puppet Style: ###"
+echo
+for file in `find ./manifests -type f`; do
+	echo "Checking ${file}."
+	bundle exec puppet-lint $file
+done
+echo
+
+echo "### Check Puppet Syntax: ###"
+echo
+for file in `find ./manifests -type f`; do
+	echo "Checking ${file}."
+	bundle exec puppet parser validate --render-as s $file
+done
+echo
+
+echo "### Check ERB Syntax: ###"
+echo 
+for file in `find ./ -type f -iname '*.erb'`; do
+	echo "Checking ${file}."
+	erb -x -T '-' $file | ruby -c ;
+done
+
