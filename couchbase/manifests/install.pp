@@ -1,7 +1,7 @@
 class couchbase::install {
 
   package {$couchbase::params::package:
-    ensure => present
+    ensure => present,
   }
 
   common::down_resource {'couchbase_get_package':
@@ -16,7 +16,7 @@ class couchbase::install {
 
   exec {'couchbase_install_package':
     cwd     => '/tmp/',
-    command => "/bin/rpm -i ${couchbase::repo_resource}",
+    command => "${couchbase::params::installer} -i ${couchbase::repo_resource}",
     require => [Package[$couchbase::params::package], Common::Down_resource['couchbase_get_package']],
     unless  => '/usr/bin/test -d /opt/couchbase/'
   }
