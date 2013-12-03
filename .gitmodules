@@ -67,3 +67,15 @@
 [submodule "roles"]
 	path = roles
 	url = https://github.com/icalvete/puppet-roles.git
+[submodule "lvm"]
+	path = lvm
+	url = https://github.com/icalvete/puppet-lvm.git
+[submodule "kyototycoon"]
+	path = kyototycoon
+	url = https://github.com/icalvete/puppet-kyototycoon.git
+[submodule "glusterfs"]
+	path = glusterfs
+	url = https://github.com/icalvete/puppet-glusterfs.git
+[submodule "couchbase"]
+	path = couchbase
+	url = https://github.com/icalvete/puppet-couchbase.git
