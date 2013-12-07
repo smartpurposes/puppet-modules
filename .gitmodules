@@ -79,3 +79,6 @@
 [submodule "couchbase"]
 	path = couchbase
 	url = https://github.com/icalvete/puppet-couchbase.git
+[submodule "rundeck"]
+	path = rundeck
+	url = https://github.com/icalvete/puppet-rundeck.git
