@@ -85,3 +85,6 @@
 [submodule "jenkins"]
 	path = jenkins
 	url = https://github.com/icalvete/puppet-jenkins.git
+[submodule "389ds"]
+	path = 389ds
+	url = https://github.com/icalvete/puppet-389DirectoryServer.git
