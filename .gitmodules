@@ -88,3 +88,6 @@
 [submodule "389ds"]
 	path = 389ds
 	url = https://github.com/icalvete/puppet-389DirectoryServer.git
+[submodule "pam_ldap"]
+	path = pam_ldap
+	url = https://github.com/icalvete/puppet-pam_ldap.git
