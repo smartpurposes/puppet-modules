@@ -91,3 +91,6 @@
 [submodule "pam_ldap"]
 	path = pam_ldap
 	url = https://github.com/icalvete/puppet-pam_ldap.git
+[submodule "sonar"]
+	path = sonar
+	url = https://github.com/icalvete/puppet-sonar.git
