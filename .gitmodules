@@ -94,3 +94,6 @@
 [submodule "sonar"]
 	path = sonar
 	url = https://github.com/icalvete/puppet-sonar.git
+[submodule "dokuwiki"]
+	path = dokuwiki
+	url = https://github.com/icalvete/puppet-dokuwiki.git
