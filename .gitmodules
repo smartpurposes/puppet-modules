@@ -97,3 +97,6 @@
 [submodule "dokuwiki"]
 	path = dokuwiki
 	url = https://github.com/icalvete/puppet-dokuwiki.git
+[submodule "memcached"]
+	path = memcached
+	url = https://github.com/icalvete/puppet-memcached.git
