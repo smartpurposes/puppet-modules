@@ -100,3 +100,6 @@
 [submodule "memcached"]
 	path = memcached
 	url = https://github.com/icalvete/puppet-memcached.git
+[submodule "mongodb"]
+	path = mongodb
+	url = https://github.com/icalvete/puppet-mongodb.git
