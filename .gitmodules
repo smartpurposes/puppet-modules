@@ -103,3 +103,6 @@
 [submodule "mongodb"]
 	path = mongodb
 	url = https://github.com/icalvete/puppet-mongodb.git
+[submodule "phpldapadmin"]
+	path = phpldapadmin
+	url = https://github.com/icalvete/puppet-phpldapadmin.git
