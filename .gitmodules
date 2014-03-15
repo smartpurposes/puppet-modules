@@ -106,3 +106,6 @@
 [submodule "phpldapadmin"]
 	path = phpldapadmin
 	url = https://github.com/icalvete/puppet-phpldapadmin.git
+[submodule "vcsrepo"]
+	path = vcsrepo
+	url = https://github.com/puppetlabs/puppetlabs-vcsrepo.git
