@@ -109,3 +109,6 @@
 [submodule "vcsrepo"]
 	path = vcsrepo
 	url = https://github.com/puppetlabs/puppetlabs-vcsrepo.git
+[submodule "fluentd"]
+	path = fluentd
+	url = https://github.com/icalvete/puppet-fluentd.git
