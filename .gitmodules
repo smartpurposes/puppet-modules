@@ -112,3 +112,6 @@
 [submodule "fluentd"]
 	path = fluentd
 	url = https://github.com/icalvete/puppet-fluentd.git
+[submodule "check_mk"]
+	path = check_mk
+	url = https://github.com/icalvete/puppet-check_mk.git
