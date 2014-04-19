@@ -115,3 +115,6 @@
 [submodule "check_mk"]
 	path = check_mk
 	url = https://github.com/icalvete/puppet-check_mk.git
+[submodule "logrotate"]
+	path = logrotate
+	url = https://github.com/rodjek/puppet-logrotate.git
