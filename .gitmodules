@@ -118,3 +118,6 @@
 [submodule "logrotate"]
 	path = logrotate
 	url = https://github.com/rodjek/puppet-logrotate.git
+[submodule "composer"]
+	path = composer
+	url = https://github.com/icalvete/puppet-composer.git
