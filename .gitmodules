@@ -121,3 +121,6 @@
 [submodule "composer"]
 	path = composer
 	url = https://github.com/icalvete/puppet-composer.git
+[submodule "kibana4"]
+	path = kibana4
+	url = https://github.com/icalvete/puppet-kibana4.git
