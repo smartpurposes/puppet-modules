@@ -124,3 +124,6 @@
 [submodule "kibana4"]
 	path = kibana4
 	url = https://github.com/icalvete/puppet-kibana4.git
+[submodule "ubuntu_ffmpeg"]
+	path = ubuntu_ffmpeg
+	url = https://github.com/icalvete/puppet-ubuntu_ffmpeg.git
