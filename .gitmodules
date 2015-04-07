@@ -127,3 +127,6 @@
 [submodule "ubuntu_ffmpeg"]
 	path = ubuntu_ffmpeg
 	url = https://github.com/icalvete/puppet-ubuntu_ffmpeg.git
+[submodule "wget"]
+	path = wget
+	url = https://github.com/maestrodev/puppet-wget
