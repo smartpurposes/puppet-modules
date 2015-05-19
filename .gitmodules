@@ -130,3 +130,6 @@
 [submodule "wget"]
 	path = wget
 	url = https://github.com/maestrodev/puppet-wget
+[submodule "codeception"]
+	path = codeception
+	url = https://github.com/icalvete/puppet-codeception.git
