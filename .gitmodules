@@ -133,3 +133,9 @@
 [submodule "codeception"]
 	path = codeception
 	url = https://github.com/icalvete/puppet-codeception.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/puppetlabs/puppetlabs-ntp.git
+[submodule "upstart"]
+	path = upstart
+	url = https://github.com/deversus/puppet-upstart.git
