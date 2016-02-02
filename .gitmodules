@@ -43,9 +43,6 @@
 [submodule "logstash"]
 	path = logstash
 	url = https://github.com/icalvete/puppet-logstash.git
-[submodule "elasticsearch"]
-	path = elasticsearch
-	url = https://github.com/icalvete/puppet-elasticsearch.git
 [submodule "syslogng"]
 	path = syslogng
 	url = https://github.com/icalvete/puppet-syslogng.git
