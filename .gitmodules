@@ -139,3 +139,15 @@
 [submodule "nfs"]
 	path = nfs
 	url = https://github.com/derdanne/puppet-nfs.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = https://github.com/elastic/puppet-elasticsearch.git
+[submodule "datacat"]
+	path = datacat
+	url = https://github.com/richardc/puppet-datacat.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "java"]
+	path = java
+	url = https://github.com/puppetlabs/puppetlabs-java.git
