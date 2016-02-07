@@ -151,3 +151,6 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/puppetlabs/puppetlabs-java.git
+[submodule "limits"]
+	path = limits
+	url = https://github.com/puppetlabs/puppetlabs-limits.git
