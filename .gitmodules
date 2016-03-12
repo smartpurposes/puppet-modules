@@ -154,3 +154,6 @@
 [submodule "limits"]
 	path = limits
 	url = https://github.com/puppetlabs/puppetlabs-limits.git
+[submodule "initfile"]
+	path = initfile
+	url = https://github.com/puppetlabs/puppetlabs-inifile.git
