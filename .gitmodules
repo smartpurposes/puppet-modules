@@ -157,3 +157,6 @@
 [submodule "initfile"]
 	path = initfile
 	url = https://github.com/puppetlabs/puppetlabs-inifile.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/puppetlabs/puppetlabs-postgresql.git
