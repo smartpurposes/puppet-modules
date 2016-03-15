@@ -157,3 +157,6 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = https://github.com/puppetlabs/puppetlabs-postgresql.git
+[submodule "upstart"]
+	path = upstart
+	url = https://github.com/Spantree/puppet-upstart.git
