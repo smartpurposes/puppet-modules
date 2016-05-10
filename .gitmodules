@@ -49,9 +49,6 @@
 [submodule "collectd"]
 	path = collectd
 	url = https://github.com/icalvete/puppet-collectd.git
-[submodule "graphite"]
-	path = graphite
-	url = https://github.com/icalvete/puppet-graphite.git
 [submodule "mcollective"]
 	path = mcollective
 	url = https://github.com/icalvete/puppet-mcollective.git
@@ -160,3 +157,6 @@
 [submodule "upstart"]
 	path = upstart
 	url = https://github.com/Spantree/puppet-upstart.git
+[submodule "graphite"]
+	path = graphite
+	url = https://github.com/echocat/puppet-graphite.git
