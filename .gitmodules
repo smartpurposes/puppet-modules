@@ -160,3 +160,6 @@
 [submodule "graphite"]
 	path = graphite
 	url = https://github.com/echocat/puppet-graphite.git
+[submodule "parse_platform"]
+	path = parse_platform
+	url = https://github.com/icalvete/puppet-parse_platform.git
