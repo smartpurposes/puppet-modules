@@ -49,9 +49,6 @@
 [submodule "collectd"]
 	path = collectd
 	url = https://github.com/icalvete/puppet-collectd.git
-[submodule "graphite"]
-	path = graphite
-	url = https://github.com/icalvete/puppet-graphite.git
 [submodule "mcollective"]
 	path = mcollective
 	url = https://github.com/icalvete/puppet-mcollective.git
@@ -97,9 +94,6 @@
 [submodule "memcached"]
 	path = memcached
 	url = https://github.com/icalvete/puppet-memcached.git
-[submodule "mongodb"]
-	path = mongodb
-	url = https://github.com/icalvete/puppet-mongodb.git
 [submodule "phpldapadmin"]
 	path = phpldapadmin
 	url = https://github.com/icalvete/puppet-phpldapadmin.git
@@ -133,9 +127,6 @@
 [submodule "ntp"]
 	path = ntp
 	url = https://github.com/puppetlabs/puppetlabs-ntp.git
-[submodule "upstart"]
-	path = upstart
-	url = https://github.com/deversus/puppet-upstart.git
 [submodule "nfs"]
 	path = nfs
 	url = https://github.com/derdanne/puppet-nfs.git
@@ -160,3 +151,15 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = https://github.com/puppetlabs/puppetlabs-postgresql.git
+[submodule "upstart"]
+	path = upstart
+	url = https://github.com/Spantree/puppet-upstart.git
+[submodule "graphite"]
+	path = graphite
+	url = https://github.com/echocat/puppet-graphite.git
+[submodule "parse_platform"]
+	path = parse_platform
+	url = https://github.com/icalvete/puppet-parse_platform.git
+[submodule "mongodb"]
+	path = mongodb
+	url = https://github.com/icalvete/puppetlabs-mongodb.git
