@@ -163,3 +163,6 @@
 [submodule "mongodb"]
 	path = mongodb
 	url = https://github.com/icalvete/puppetlabs-mongodb.git
+[submodule "omd"]
+	path = omd
+	url = https://github.com/icalvete/puppet-omd.git
