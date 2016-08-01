@@ -166,3 +166,6 @@
 [submodule "staging"]
 	path = staging
 	url = https://github.com/voxpupuli/puppet-staging
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/puppetlabs/puppetlabs-rabbitmq.git
