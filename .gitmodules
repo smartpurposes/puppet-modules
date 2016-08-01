@@ -166,3 +166,6 @@
 [submodule "omd"]
 	path = omd
 	url = https://github.com/icalvete/puppet-omd.git
+[submodule "staging"]
+	path = staging
+	url = https://github.com/voxpupuli/puppet-staging
