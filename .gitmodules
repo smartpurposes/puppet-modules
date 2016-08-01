@@ -16,9 +16,6 @@
 [submodule "puppet"]
 	path = puppet
 	url = https://github.com/icalvete/puppet-puppet.git
-[submodule "rabbitmq"]
-	path = rabbitmq
-	url = https://github.com/icalvete/puppet-rabbitmq.git
 [submodule "mysql"]
 	path = mysql
 	url = https://github.com/icalvete/puppet-mysql.git
