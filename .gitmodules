@@ -169,3 +169,6 @@
 [submodule "rabbitmq"]
 	path = rabbitmq
 	url = https://github.com/puppetlabs/puppetlabs-rabbitmq.git
+[submodule "haproxy"]
+	path = haproxy
+	url = https://github.com/puppetlabs/puppetlabs-haproxy.git
