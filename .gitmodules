@@ -172,3 +172,6 @@
 [submodule "haproxy"]
 	path = haproxy
 	url = https://github.com/puppetlabs/puppetlabs-haproxy.git
+[submodule "sysctl"]
+	path = sysctl
+	url = https://github.com/ULHPC/puppet-sysctl.git
