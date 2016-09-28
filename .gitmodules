@@ -178,3 +178,6 @@
 [submodule "hhvm"]
 	path = hhvm
 	url = https://github.com/icalvete/puppet-hhvm.git
+[submodule "php7"]
+	path = php7
+	url = https://github.com/icalvete/puppet-php7.git
