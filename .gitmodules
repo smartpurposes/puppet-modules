@@ -175,3 +175,9 @@
 [submodule "sysctl"]
 	path = sysctl
 	url = https://github.com/ULHPC/puppet-sysctl.git
+[submodule "hhvm"]
+	path = hhvm
+	url = https://github.com/icalvete/puppet-hhvm.git
+[submodule "php7"]
+	path = php7
+	url = https://github.com/icalvete/puppet-php7.git
