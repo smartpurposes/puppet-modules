@@ -184,3 +184,6 @@
 [submodule "firewall"]
 	path = firewall
 	url = https://github.com/puppetlabs/puppetlabs-firewall
+[submodule "systemd"]
+	path = systemd
+	url = https://github.com/camptocamp/puppet-systemd.git
