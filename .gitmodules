@@ -187,3 +187,6 @@
 [submodule "systemd"]
 	path = systemd
 	url = https://github.com/camptocamp/puppet-systemd.git
+[submodule "rclocal"]
+	path = rclocal
+	url = https://github.com/icalvete/puppet-rclocal.git
