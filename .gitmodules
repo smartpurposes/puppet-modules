@@ -190,3 +190,6 @@
 [submodule "rclocal"]
 	path = rclocal
 	url = https://github.com/icalvete/puppet-rclocal.git
+[submodule "network"]
+	path = network
+	url = https://github.com/icalvete/puppet-network.git
