@@ -193,3 +193,6 @@
 [submodule "network"]
 	path = network
 	url = https://github.com/icalvete/puppet-network.git
+[submodule "aws_cli"]
+	path = aws_cli
+	url = https://github.com/icalvete/puppet-aws_cli.git
