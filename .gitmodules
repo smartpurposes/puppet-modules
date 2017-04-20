@@ -199,3 +199,6 @@
 [submodule "nifi"]
 	path = nifi
 	url = https://github.com/icalvete/puppet-nifi.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/puppetlabs/puppetlabs-ruby
