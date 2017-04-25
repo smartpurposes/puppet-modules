@@ -199,3 +199,6 @@
 [submodule "nifi"]
 	path = nifi
 	url = https://github.com/icalvete/puppet-nifi.git
+[submodule "resolvconf"]
+	path = resolvconf
+	url = https://github.com/thias/puppet-resolvconf.git
