@@ -208,3 +208,6 @@
 [submodule "onion"]
 	path = onion
 	url = https://github.com/icalvete/puppet-onion.git
+[submodule "mysql_mmm"]
+	path = mysql_mmm
+	url = https://github.com/icalvete/puppet-mysql_mmm.git
