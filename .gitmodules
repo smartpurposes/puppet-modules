@@ -211,3 +211,6 @@
 [submodule "mysql_mmm"]
 	path = mysql_mmm
 	url = https://github.com/icalvete/puppet-mysql_mmm.git
+[submodule "piwik"]
+	path = piwik
+	url = https://github.com/icalvete/puppet-piwik.git
