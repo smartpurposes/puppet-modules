@@ -214,3 +214,6 @@
 [submodule "piwik"]
 	path = piwik
 	url = https://github.com/icalvete/puppet-piwik.git
+[submodule "kibana"]
+	path = kibana
+	url = https://github.com/elastic/puppet-kibana
