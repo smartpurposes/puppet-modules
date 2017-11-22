@@ -217,3 +217,6 @@
 [submodule "kibana"]
 	path = kibana
 	url = https://github.com/elastic/puppet-kibana
+[submodule "geoip"]
+	path = geoip
+	url = https://github.com/icalvete/puppet-geoip.git
