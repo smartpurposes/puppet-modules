@@ -220,3 +220,6 @@
 [submodule "geoip"]
 	path = geoip
 	url = https://github.com/icalvete/puppet-geoip.git
+[submodule "geoip2"]
+	path = geoip2
+	url = https://github.com/icalvete/puppet-geoip2.git
