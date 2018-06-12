@@ -223,3 +223,6 @@
 [submodule "geoip2"]
 	path = geoip2
 	url = https://github.com/icalvete/puppet-geoip2.git
+[submodule "sudo"]
+	path = sudo
+	url = https://github.com/abstractitptyltd/puppet-sudo
