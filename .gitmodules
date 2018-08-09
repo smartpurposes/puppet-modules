@@ -226,3 +226,6 @@
 [submodule "sudo"]
 	path = sudo
 	url = https://github.com/abstractitptyltd/puppet-sudo
+[submodule "vsftpd"]
+	path = vsftpd
+	url = https://github.com/thias/puppet-vsftpd
