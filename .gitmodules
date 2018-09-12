@@ -229,3 +229,6 @@
 [submodule "vsftpd"]
 	path = vsftpd
 	url = https://github.com/thias/puppet-vsftpd
+[submodule "aws_cloudwatch_agent"]
+	path = aws_cloudwatch_agent
+	url = https://github.com/icalvete/puppet-aws_cloudwatch_agent.git
