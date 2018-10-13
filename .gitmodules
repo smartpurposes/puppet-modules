@@ -232,3 +232,6 @@
 [submodule "aws_cloudwatch_agent"]
 	path = aws_cloudwatch_agent
 	url = https://github.com/icalvete/puppet-aws_cloudwatch_agent.git
+[submodule "redis"]
+	path = redis
+	url = https://github.com/arioch/puppet-redis.git
