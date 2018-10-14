@@ -235,3 +235,6 @@
 [submodule "redis"]
 	path = redis
 	url = https://github.com/arioch/puppet-redis.git
+[submodule "sensu"]
+	path = sensu
+	url = https://github.com/sensu/sensu-puppet.git
