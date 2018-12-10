@@ -238,3 +238,6 @@
 [submodule "sensu"]
 	path = sensu
 	url = https://github.com/sensu/sensu-puppet.git
+[submodule "selenium_server"]
+	path = selenium_server
+	url = https://github.com/icalvete/puppet-selenium_server.git
