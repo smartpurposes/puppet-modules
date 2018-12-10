@@ -241,3 +241,6 @@
 [submodule "selenium_server"]
 	path = selenium_server
 	url = https://github.com/icalvete/puppet-selenium_server.git
+[submodule "google-chrome"]
+	path = google-chrome
+	url = https://github.com/jamesnetherton/puppet-google-chrome
