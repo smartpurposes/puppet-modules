@@ -247,3 +247,6 @@
 [submodule "dbdeployer"]
 	path = dbdeployer
 	url = https://github.com/icalvete/puppet-dbdeployer.git
+[submodule "tea"]
+	path = tea
+	url = https://github.com/voxpupuli/puppet-tea
