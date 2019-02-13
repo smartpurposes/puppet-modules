@@ -250,3 +250,6 @@
 [submodule "tea"]
 	path = tea
 	url = https://github.com/voxpupuli/puppet-tea
+[submodule "elastic_stack"]
+	path = elastic_stack
+	url = https://github.com/elastic/puppet-elastic-stack
