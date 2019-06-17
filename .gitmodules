@@ -253,3 +253,6 @@
 [submodule "elastic_stack"]
 	path = elastic_stack
 	url = https://github.com/elastic/puppet-elastic-stack
+[submodule "rbenv"]
+	path = rbenv
+	url = https://github.com/jdowning/puppet-rbenv
