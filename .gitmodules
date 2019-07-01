@@ -256,3 +256,6 @@
 [submodule "rbenv"]
 	path = rbenv
 	url = https://github.com/jdowning/puppet-rbenv
+[submodule "jenkins2"]
+	path = jenkins2
+	url = https://github.com/icalvete/puppet-jenkins2
