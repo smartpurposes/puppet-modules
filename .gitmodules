@@ -256,3 +256,6 @@
 [submodule "jenkins2"]
 	path = jenkins2
 	url = https://github.com/icalvete/puppet-jenkins2
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
