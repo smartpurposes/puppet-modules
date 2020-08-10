@@ -259,3 +259,6 @@
 [submodule "mysql"]
 	path = mysql
 	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "awscli"]
+	path = awscli
+	url = https://github.com/jdowning/puppet-awscli.git
