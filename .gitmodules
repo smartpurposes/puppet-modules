@@ -259,3 +259,9 @@
 [submodule "awscli"]
 	path = awscli
 	url = https://github.com/jdowning/puppet-awscli.git
+[submodule "sonarqube"]
+	path = sonarqube
+	url = https://github.com/markt-de/puppet-sonarqube.git
+[submodule "archive"]
+	path = archive
+	url = https://github.com/voxpupuli/puppet-archive.git
