@@ -268,3 +268,6 @@
 [submodule "docker"]
 	path = docker
 	url = https://github.com/puppetlabs/puppetlabs-docker.git
+[submodule "etcd"]
+	path = etcd
+	url = https://github.com/icalvete/puppet-etcd.git
