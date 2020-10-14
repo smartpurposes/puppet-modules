@@ -265,3 +265,6 @@
 [submodule "archive"]
 	path = archive
 	url = https://github.com/voxpupuli/puppet-archive.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/puppetlabs/puppetlabs-docker.git
