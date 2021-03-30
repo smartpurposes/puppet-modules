@@ -4,9 +4,6 @@
 [submodule "concat"]
 	path = concat
 	url = https://github.com/puppetlabs/puppetlabs-concat.git
-[submodule "awstools"]
-	path = awstools
-	url = https://github.com/icalvete/puppet-awstools.git
 [submodule "common"]
 	path = common
 	url = https://github.com/icalvete/puppet-common.git
