@@ -148,9 +148,6 @@
 [submodule "parse_platform"]
 	path = parse_platform
 	url = https://github.com/icalvete/puppet-parse_platform.git
-[submodule "mongodb"]
-	path = mongodb
-	url = https://github.com/icalvete/puppetlabs-mongodb.git
 [submodule "omd"]
 	path = omd
 	url = https://github.com/icalvete/puppet-omd.git
