@@ -262,3 +262,6 @@
 [submodule "etcd"]
 	path = etcd
 	url = https://github.com/icalvete/puppet-etcd.git
+[submodule "mongodb"]
+	path = mongodb
+	url = https://github.com/voxpupuli/puppet-mongodb.git
