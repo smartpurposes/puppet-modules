@@ -268,3 +268,6 @@
 [submodule "php8"]
 	path = php8
 	url = https://github.com/icalvete/puppet-php8.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/voxpupuli/puppet-nginx.git
