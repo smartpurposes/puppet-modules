@@ -25,9 +25,6 @@
 [submodule "statsd"]
 	path = statsd
 	url = https://github.com/icalvete/puppet-statsd.git
-[submodule "nodejs"]
-	path = nodejs
-	url = https://github.com/icalvete/puppet-nodejs.git
 [submodule "kibana3"]
 	path = kibana3
 	url = https://github.com/icalvete/puppet-kibana3.git
