@@ -268,3 +268,6 @@
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/voxpupuli/puppet-nginx.git
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/voxpupuli/puppet-nodejs.git
