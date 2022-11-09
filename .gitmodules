@@ -268,3 +268,6 @@
 [submodule "nodejs"]
 	path = nodejs
 	url = https://github.com/voxpupuli/puppet-nodejs.git
+[submodule "fluentd"]
+	path = fluentd
+	url = https://github.com/EncoreTechnologies/puppet-fluentd.git
