@@ -271,3 +271,6 @@
 [submodule "fluentd"]
 	path = fluentd
 	url = https://github.com/EncoreTechnologies/puppet-fluentd.git
+[submodule "lego"]
+	path = lego
+	url = https://github.com/icalvete/puppet-lego.git
